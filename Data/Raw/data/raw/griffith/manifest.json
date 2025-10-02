@@ -1,0 +1,6170 @@
+[
+  {
+    "mandala": 1,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01001.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_001.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01002.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_002.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01003.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_003.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01004.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_004.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01005.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_005.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01006.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_006.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01007.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_007.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01008.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_008.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01009.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_009.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01010.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_010.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01011.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_011.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01012.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_012.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01013.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_013.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01014.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_014.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01015.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_015.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01016.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_016.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01017.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_017.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01018.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_018.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01019.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_019.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01020.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_020.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01021.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_021.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01022.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_022.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01023.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_023.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01024.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_024.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01025.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_025.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01026.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_026.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01027.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_027.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01028.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_028.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01029.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_029.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01030.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_030.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01031.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_031.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01032.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_032.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01033.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_033.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01034.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_034.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01035.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_035.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01036.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_036.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01037.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_037.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01038.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_038.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01039.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_039.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01040.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_040.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01041.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_041.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01042.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_042.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01043.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_043.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01044.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_044.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01045.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_045.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01046.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_046.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01047.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_047.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01048.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_048.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01049.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_049.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01050.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_050.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01051.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_051.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01052.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_052.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01053.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_053.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01054.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_054.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01055.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_055.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01056.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_056.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01057.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_057.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01058.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_058.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01059.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_059.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01060.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_060.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01061.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_061.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01062.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_062.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 63,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01063.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_063.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 64,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01064.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_064.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 65,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01065.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_065.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 66,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01066.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_066.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 67,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01067.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_067.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 68,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01068.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_068.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 69,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01069.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_069.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 70,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01070.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_070.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 71,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01071.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_071.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 72,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01072.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_072.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 73,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01073.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_073.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 74,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01074.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_074.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 75,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01075.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_075.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 76,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01076.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_076.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 77,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01077.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_077.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 78,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01078.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_078.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 79,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01079.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_079.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 80,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01080.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_080.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 81,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01081.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_081.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 82,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01082.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_082.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 83,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01083.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_083.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 84,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01084.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_084.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 85,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01085.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_085.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 86,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01086.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_086.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 87,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01087.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_087.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 88,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01088.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_088.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 89,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01089.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_089.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 90,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01090.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_090.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 91,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01091.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_091.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 92,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01092.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_092.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 93,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01093.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_093.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 94,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01094.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_094.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 95,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01095.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_095.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 96,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01096.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_096.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 97,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01097.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_097.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 98,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01098.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_098.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 99,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01099.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_099.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 100,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01100.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_100.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 101,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01101.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_101.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 102,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01102.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_102.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 103,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01103.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_103.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 104,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01104.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_104.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 105,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01105.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_105.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 106,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01106.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_106.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 107,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01107.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_107.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 108,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01108.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_108.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 109,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01109.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_109.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 110,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01110.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_110.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 111,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01111.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_111.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 112,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01112.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_112.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 113,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01113.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_113.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 114,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01114.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_114.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 115,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01115.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_115.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 116,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01116.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_116.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 117,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01117.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_117.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 118,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01118.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_118.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 119,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01119.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_119.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 120,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01120.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_120.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 121,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01121.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_121.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 122,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01122.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_122.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 123,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01123.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_123.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 124,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01124.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_124.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 125,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01125.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_125.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 126,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01126.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_126.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 127,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01127.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_127.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 128,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01128.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_128.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 129,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01129.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_129.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 130,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01130.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_130.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 131,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01131.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_131.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 132,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01132.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_132.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 133,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01133.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_133.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 134,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01134.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_134.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 135,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01135.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_135.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 136,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01136.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_136.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 137,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01137.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_137.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 138,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01138.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_138.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 139,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01139.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_139.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 140,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01140.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_140.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 141,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01141.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_141.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 142,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01142.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_142.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 143,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01143.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_143.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 144,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01144.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_144.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 145,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01145.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_145.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 146,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01146.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_146.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 147,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01147.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_147.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 148,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01148.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_148.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 149,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01149.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_149.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 150,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01150.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_150.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 151,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01151.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_151.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 152,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01152.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_152.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 153,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01153.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_153.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 154,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01154.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_154.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 155,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01155.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_155.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 156,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01156.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_156.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 157,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01157.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_157.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 158,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01158.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_158.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 159,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01159.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_159.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 160,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01160.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_160.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 161,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01161.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_161.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 162,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01162.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_162.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 163,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01163.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_163.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 164,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01164.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_164.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 165,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01165.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_165.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 166,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01166.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_166.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 167,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01167.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_167.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 168,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01168.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_168.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 169,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01169.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_169.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 170,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01170.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_170.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 171,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01171.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_171.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 172,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01172.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_172.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 173,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01173.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_173.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 174,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01174.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_174.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 175,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01175.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_175.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 176,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01176.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_176.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 177,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01177.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_177.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 178,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01178.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_178.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 179,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01179.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_179.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 180,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01180.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_180.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 181,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01181.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_181.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 182,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01182.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_182.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 183,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01183.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_183.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 184,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01184.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_184.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 185,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01185.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_185.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 186,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01186.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_186.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 187,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01187.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_187.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 188,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01188.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_188.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 189,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01189.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_189.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 190,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01190.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_190.html"
+  },
+  {
+    "mandala": 1,
+    "hymn": 191,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv01191.htm",
+    "path": "data/raw/griffith/mandala_01/hymn_191.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02001.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_001.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02002.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_002.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02003.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_003.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02004.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_004.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02005.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_005.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02006.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_006.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02007.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_007.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02008.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_008.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02009.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_009.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02010.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_010.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02011.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_011.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02012.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_012.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02013.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_013.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02014.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_014.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02015.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_015.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02016.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_016.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02017.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_017.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02018.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_018.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02019.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_019.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02020.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_020.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02021.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_021.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02022.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_022.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02023.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_023.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02024.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_024.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02025.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_025.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02026.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_026.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02027.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_027.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02028.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_028.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02029.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_029.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02030.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_030.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02031.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_031.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02032.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_032.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02033.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_033.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02034.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_034.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02035.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_035.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02036.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_036.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02037.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_037.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02038.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_038.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02039.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_039.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02040.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_040.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02041.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_041.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02042.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_042.html"
+  },
+  {
+    "mandala": 2,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv02043.htm",
+    "path": "data/raw/griffith/mandala_02/hymn_043.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03001.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_001.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03002.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_002.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03003.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_003.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03004.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_004.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03005.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_005.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03006.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_006.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03007.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_007.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03008.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_008.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03009.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_009.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03010.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_010.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03011.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_011.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03012.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_012.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03013.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_013.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03014.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_014.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03015.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_015.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03016.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_016.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03017.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_017.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03018.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_018.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03019.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_019.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03020.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_020.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03021.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_021.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03022.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_022.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03023.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_023.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03024.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_024.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03025.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_025.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03026.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_026.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03027.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_027.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03028.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_028.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03029.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_029.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03030.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_030.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03031.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_031.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03032.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_032.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03033.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_033.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03034.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_034.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03035.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_035.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03036.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_036.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03037.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_037.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03038.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_038.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03039.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_039.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03040.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_040.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03041.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_041.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03042.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_042.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03043.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_043.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03044.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_044.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03045.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_045.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03046.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_046.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03047.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_047.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03048.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_048.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03049.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_049.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03050.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_050.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03051.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_051.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03052.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_052.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03053.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_053.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03054.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_054.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03055.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_055.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03056.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_056.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03057.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_057.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03058.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_058.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03059.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_059.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03060.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_060.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03061.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_061.html"
+  },
+  {
+    "mandala": 3,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv03062.htm",
+    "path": "data/raw/griffith/mandala_03/hymn_062.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04001.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_001.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04002.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_002.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04003.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_003.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04004.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_004.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04005.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_005.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04006.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_006.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04007.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_007.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04008.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_008.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04009.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_009.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04010.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_010.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04011.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_011.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04012.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_012.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04013.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_013.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04014.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_014.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04015.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_015.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04016.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_016.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04017.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_017.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04018.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_018.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04019.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_019.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04020.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_020.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04021.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_021.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04022.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_022.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04023.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_023.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04024.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_024.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04025.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_025.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04026.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_026.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04027.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_027.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04028.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_028.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04029.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_029.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04030.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_030.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04031.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_031.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04032.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_032.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04033.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_033.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04034.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_034.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04035.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_035.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04036.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_036.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04037.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_037.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04038.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_038.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04039.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_039.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04040.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_040.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04041.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_041.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04042.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_042.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04043.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_043.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04044.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_044.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04045.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_045.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04046.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_046.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04047.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_047.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04048.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_048.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04049.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_049.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04050.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_050.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04051.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_051.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04052.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_052.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04053.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_053.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04054.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_054.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04055.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_055.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04056.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_056.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04057.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_057.html"
+  },
+  {
+    "mandala": 4,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv04058.htm",
+    "path": "data/raw/griffith/mandala_04/hymn_058.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05001.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_001.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05002.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_002.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05003.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_003.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05004.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_004.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05005.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_005.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05006.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_006.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05007.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_007.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05008.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_008.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05009.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_009.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05010.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_010.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05011.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_011.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05012.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_012.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05013.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_013.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05014.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_014.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05015.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_015.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05016.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_016.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05017.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_017.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05018.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_018.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05019.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_019.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05020.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_020.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05021.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_021.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05022.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_022.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05023.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_023.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05024.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_024.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05025.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_025.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05026.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_026.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05027.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_027.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05028.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_028.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05029.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_029.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05030.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_030.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05031.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_031.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05032.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_032.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05033.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_033.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05034.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_034.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05035.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_035.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05036.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_036.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05037.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_037.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05038.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_038.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05039.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_039.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05040.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_040.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05041.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_041.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05042.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_042.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05043.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_043.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05044.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_044.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05045.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_045.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05046.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_046.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05047.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_047.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05048.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_048.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05049.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_049.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05050.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_050.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05051.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_051.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05052.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_052.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05053.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_053.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05054.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_054.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05055.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_055.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05056.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_056.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05057.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_057.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05058.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_058.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05059.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_059.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05060.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_060.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05061.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_061.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05062.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_062.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 63,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05063.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_063.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 64,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05064.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_064.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 65,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05065.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_065.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 66,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05066.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_066.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 67,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05067.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_067.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 68,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05068.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_068.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 69,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05069.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_069.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 70,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05070.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_070.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 71,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05071.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_071.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 72,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05072.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_072.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 73,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05073.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_073.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 74,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05074.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_074.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 75,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05075.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_075.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 76,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05076.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_076.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 77,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05077.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_077.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 78,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05078.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_078.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 79,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05079.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_079.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 80,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05080.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_080.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 81,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05081.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_081.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 82,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05082.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_082.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 83,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05083.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_083.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 84,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05084.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_084.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 85,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05085.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_085.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 86,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05086.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_086.html"
+  },
+  {
+    "mandala": 5,
+    "hymn": 87,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv05087.htm",
+    "path": "data/raw/griffith/mandala_05/hymn_087.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06001.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_001.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06002.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_002.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06003.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_003.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06004.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_004.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06005.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_005.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06006.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_006.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06007.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_007.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06008.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_008.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06009.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_009.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06010.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_010.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06011.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_011.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06012.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_012.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06013.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_013.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06014.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_014.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06015.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_015.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06016.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_016.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06017.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_017.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06018.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_018.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06019.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_019.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06020.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_020.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06021.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_021.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06022.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_022.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06023.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_023.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06024.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_024.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06025.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_025.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06026.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_026.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06027.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_027.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06028.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_028.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06029.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_029.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06030.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_030.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06031.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_031.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06032.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_032.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06033.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_033.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06034.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_034.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06035.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_035.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06036.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_036.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06037.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_037.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06038.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_038.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06039.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_039.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06040.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_040.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06041.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_041.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06042.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_042.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06043.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_043.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06044.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_044.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06045.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_045.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06046.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_046.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06047.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_047.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06048.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_048.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06049.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_049.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06050.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_050.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06051.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_051.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06052.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_052.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06053.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_053.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06054.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_054.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06055.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_055.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06056.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_056.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06057.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_057.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06058.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_058.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06059.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_059.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06060.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_060.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06061.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_061.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06062.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_062.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 63,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06063.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_063.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 64,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06064.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_064.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 65,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06065.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_065.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 66,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06066.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_066.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 67,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06067.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_067.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 68,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06068.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_068.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 69,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06069.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_069.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 70,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06070.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_070.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 71,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06071.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_071.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 72,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06072.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_072.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 73,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06073.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_073.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 74,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06074.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_074.html"
+  },
+  {
+    "mandala": 6,
+    "hymn": 75,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv06075.htm",
+    "path": "data/raw/griffith/mandala_06/hymn_075.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07001.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_001.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07002.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_002.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07003.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_003.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07004.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_004.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07005.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_005.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07006.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_006.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07007.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_007.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07008.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_008.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07009.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_009.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07010.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_010.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07011.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_011.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07012.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_012.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07013.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_013.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07014.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_014.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07015.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_015.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07016.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_016.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07017.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_017.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07018.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_018.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07019.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_019.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07020.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_020.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07021.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_021.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07022.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_022.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07023.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_023.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07024.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_024.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07025.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_025.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07026.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_026.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07027.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_027.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07028.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_028.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07029.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_029.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07030.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_030.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07031.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_031.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07032.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_032.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07033.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_033.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07034.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_034.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07035.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_035.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07036.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_036.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07037.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_037.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07038.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_038.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07039.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_039.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07040.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_040.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07041.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_041.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07042.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_042.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07043.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_043.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07044.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_044.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07045.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_045.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07046.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_046.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07047.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_047.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07048.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_048.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07049.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_049.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07050.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_050.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07051.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_051.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07052.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_052.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07053.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_053.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07054.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_054.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07055.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_055.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07056.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_056.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07057.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_057.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07058.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_058.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07059.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_059.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07060.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_060.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07061.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_061.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07062.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_062.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 63,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07063.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_063.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 64,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07064.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_064.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 65,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07065.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_065.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 66,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07066.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_066.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 67,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07067.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_067.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 68,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07068.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_068.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 69,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07069.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_069.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 70,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07070.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_070.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 71,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07071.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_071.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 72,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07072.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_072.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 73,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07073.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_073.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 74,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07074.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_074.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 75,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07075.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_075.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 76,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07076.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_076.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 77,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07077.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_077.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 78,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07078.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_078.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 79,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07079.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_079.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 80,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07080.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_080.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 81,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07081.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_081.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 82,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07082.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_082.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 83,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07083.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_083.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 84,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07084.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_084.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 85,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07085.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_085.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 86,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07086.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_086.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 87,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07087.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_087.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 88,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07088.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_088.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 89,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07089.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_089.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 90,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07090.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_090.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 91,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07091.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_091.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 92,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07092.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_092.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 93,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07093.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_093.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 94,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07094.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_094.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 95,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07095.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_095.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 96,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07096.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_096.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 97,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07097.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_097.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 98,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07098.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_098.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 99,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07099.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_099.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 100,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07100.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_100.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 101,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07101.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_101.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 102,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07102.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_102.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 103,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07103.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_103.html"
+  },
+  {
+    "mandala": 7,
+    "hymn": 104,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv07104.htm",
+    "path": "data/raw/griffith/mandala_07/hymn_104.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08001.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_001.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08002.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_002.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08003.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_003.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08004.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_004.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08005.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_005.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08006.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_006.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08007.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_007.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08008.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_008.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08009.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_009.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08010.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_010.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08011.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_011.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08012.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_012.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08013.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_013.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08014.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_014.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08015.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_015.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08016.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_016.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08017.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_017.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08018.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_018.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08019.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_019.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08020.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_020.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08021.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_021.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08022.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_022.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08023.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_023.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08024.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_024.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08025.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_025.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08026.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_026.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08027.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_027.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08028.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_028.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08029.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_029.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08030.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_030.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08031.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_031.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08032.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_032.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08033.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_033.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08034.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_034.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08035.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_035.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08036.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_036.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08037.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_037.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08038.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_038.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08039.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_039.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08040.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_040.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08041.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_041.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08042.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_042.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08043.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_043.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08044.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_044.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08045.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_045.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08046.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_046.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08047.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_047.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08048.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_048.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08049.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_049.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08050.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_050.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08051.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_051.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08052.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_052.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08053.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_053.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08054.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_054.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08055.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_055.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08056.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_056.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08057.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_057.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08058.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_058.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08059.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_059.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08060.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_060.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08061.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_061.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08062.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_062.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 63,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08063.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_063.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 64,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08064.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_064.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 65,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08065.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_065.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 66,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08066.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_066.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 67,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08067.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_067.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 68,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08068.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_068.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 69,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08069.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_069.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 70,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08070.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_070.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 71,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08071.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_071.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 72,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08072.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_072.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 73,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08073.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_073.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 74,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08074.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_074.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 75,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08075.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_075.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 76,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08076.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_076.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 77,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08077.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_077.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 78,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08078.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_078.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 79,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08079.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_079.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 80,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08080.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_080.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 81,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08081.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_081.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 82,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08082.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_082.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 83,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08083.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_083.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 84,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08084.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_084.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 85,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08085.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_085.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 86,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08086.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_086.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 87,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08087.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_087.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 88,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08088.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_088.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 89,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08089.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_089.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 90,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08090.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_090.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 91,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08091.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_091.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 92,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08092.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_092.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 93,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08093.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_093.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 94,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08094.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_094.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 95,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08095.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_095.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 96,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08096.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_096.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 97,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08097.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_097.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 98,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08098.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_098.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 99,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08099.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_099.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 100,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08100.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_100.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 101,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08101.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_101.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 102,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08102.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_102.html"
+  },
+  {
+    "mandala": 8,
+    "hymn": 103,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv08103.htm",
+    "path": "data/raw/griffith/mandala_08/hymn_103.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09001.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_001.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09002.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_002.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09003.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_003.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09004.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_004.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09005.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_005.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09006.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_006.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09007.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_007.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09008.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_008.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09009.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_009.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09010.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_010.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09011.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_011.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09012.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_012.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09013.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_013.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09014.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_014.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09015.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_015.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09016.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_016.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09017.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_017.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09018.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_018.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09019.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_019.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09020.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_020.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09021.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_021.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09022.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_022.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09023.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_023.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09024.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_024.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09025.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_025.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09026.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_026.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09027.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_027.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09028.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_028.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09029.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_029.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09030.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_030.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09031.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_031.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09032.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_032.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09033.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_033.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09034.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_034.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09035.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_035.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09036.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_036.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09037.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_037.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09038.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_038.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09039.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_039.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09040.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_040.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09041.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_041.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09042.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_042.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09043.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_043.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09044.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_044.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09045.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_045.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09046.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_046.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09047.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_047.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09048.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_048.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09049.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_049.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09050.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_050.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09051.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_051.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09052.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_052.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09053.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_053.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09054.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_054.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09055.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_055.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09056.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_056.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09057.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_057.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09058.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_058.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09059.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_059.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09060.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_060.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09061.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_061.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09062.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_062.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 63,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09063.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_063.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 64,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09064.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_064.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 65,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09065.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_065.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 66,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09066.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_066.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 67,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09067.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_067.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 68,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09068.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_068.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 69,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09069.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_069.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 70,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09070.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_070.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 71,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09071.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_071.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 72,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09072.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_072.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 73,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09073.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_073.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 74,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09074.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_074.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 75,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09075.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_075.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 76,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09076.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_076.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 77,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09077.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_077.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 78,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09078.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_078.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 79,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09079.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_079.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 80,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09080.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_080.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 81,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09081.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_081.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 82,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09082.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_082.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 83,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09083.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_083.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 84,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09084.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_084.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 85,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09085.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_085.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 86,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09086.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_086.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 87,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09087.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_087.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 88,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09088.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_088.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 89,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09089.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_089.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 90,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09090.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_090.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 91,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09091.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_091.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 92,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09092.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_092.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 93,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09093.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_093.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 94,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09094.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_094.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 95,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09095.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_095.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 96,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09096.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_096.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 97,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09097.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_097.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 98,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09098.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_098.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 99,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09099.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_099.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 100,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09100.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_100.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 101,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09101.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_101.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 102,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09102.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_102.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 103,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09103.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_103.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 104,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09104.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_104.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 105,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09105.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_105.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 106,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09106.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_106.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 107,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09107.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_107.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 108,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09108.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_108.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 109,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09109.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_109.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 110,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09110.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_110.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 111,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09111.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_111.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 112,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09112.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_112.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 113,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09113.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_113.html"
+  },
+  {
+    "mandala": 9,
+    "hymn": 114,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv09114.htm",
+    "path": "data/raw/griffith/mandala_09/hymn_114.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 1,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10001.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_001.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 2,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10002.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_002.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 3,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10003.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_003.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 4,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10004.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_004.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 5,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10005.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_005.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 6,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10006.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_006.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 7,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10007.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_007.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 8,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10008.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_008.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 9,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10009.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_009.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 10,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10010.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_010.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 11,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10011.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_011.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 12,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10012.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_012.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 13,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10013.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_013.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 14,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10014.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_014.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 15,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10015.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_015.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 16,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10016.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_016.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 17,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10017.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_017.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 18,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10018.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_018.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 19,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10019.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_019.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 20,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10020.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_020.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 21,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10021.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_021.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 22,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10022.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_022.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 23,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10023.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_023.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 24,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10024.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_024.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 25,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10025.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_025.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 26,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10026.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_026.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 27,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10027.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_027.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 28,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10028.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_028.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 29,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10029.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_029.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 30,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10030.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_030.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 31,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10031.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_031.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 32,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10032.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_032.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 33,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10033.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_033.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 34,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10034.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_034.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 35,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10035.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_035.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 36,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10036.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_036.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 37,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10037.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_037.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 38,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10038.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_038.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 39,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10039.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_039.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 40,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10040.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_040.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 41,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10041.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_041.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 42,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10042.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_042.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 43,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10043.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_043.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 44,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10044.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_044.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 45,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10045.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_045.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 46,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10046.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_046.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 47,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10047.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_047.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 48,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10048.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_048.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 49,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10049.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_049.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 50,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10050.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_050.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 51,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10051.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_051.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 52,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10052.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_052.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 53,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10053.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_053.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 54,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10054.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_054.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 55,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10055.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_055.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 56,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10056.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_056.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 57,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10057.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_057.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 58,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10058.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_058.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 59,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10059.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_059.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 60,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10060.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_060.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 61,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10061.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_061.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 62,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10062.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_062.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 63,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10063.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_063.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 64,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10064.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_064.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 65,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10065.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_065.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 66,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10066.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_066.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 67,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10067.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_067.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 68,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10068.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_068.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 69,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10069.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_069.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 70,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10070.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_070.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 71,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10071.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_071.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 72,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10072.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_072.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 73,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10073.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_073.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 74,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10074.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_074.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 75,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10075.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_075.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 76,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10076.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_076.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 77,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10077.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_077.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 78,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10078.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_078.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 79,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10079.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_079.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 80,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10080.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_080.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 81,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10081.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_081.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 82,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10082.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_082.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 83,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10083.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_083.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 84,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10084.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_084.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 85,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10085.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_085.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 86,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10086.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_086.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 87,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10087.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_087.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 88,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10088.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_088.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 89,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10089.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_089.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 90,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10090.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_090.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 91,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10091.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_091.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 92,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10092.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_092.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 93,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10093.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_093.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 94,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10094.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_094.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 95,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10095.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_095.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 96,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10096.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_096.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 97,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10097.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_097.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 98,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10098.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_098.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 99,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10099.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_099.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 100,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10100.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_100.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 101,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10101.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_101.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 102,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10102.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_102.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 103,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10103.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_103.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 104,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10104.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_104.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 105,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10105.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_105.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 106,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10106.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_106.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 107,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10107.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_107.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 108,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10108.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_108.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 109,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10109.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_109.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 110,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10110.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_110.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 111,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10111.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_111.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 112,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10112.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_112.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 113,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10113.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_113.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 114,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10114.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_114.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 115,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10115.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_115.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 116,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10116.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_116.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 117,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10117.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_117.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 118,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10118.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_118.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 119,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10119.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_119.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 120,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10120.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_120.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 121,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10121.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_121.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 122,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10122.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_122.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 123,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10123.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_123.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 124,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10124.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_124.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 125,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10125.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_125.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 126,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10126.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_126.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 127,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10127.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_127.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 128,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10128.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_128.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 129,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10129.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_129.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 130,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10130.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_130.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 131,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10131.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_131.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 132,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10132.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_132.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 133,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10133.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_133.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 134,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10134.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_134.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 135,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10135.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_135.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 136,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10136.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_136.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 137,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10137.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_137.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 138,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10138.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_138.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 139,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10139.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_139.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 140,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10140.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_140.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 141,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10141.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_141.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 142,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10142.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_142.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 143,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10143.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_143.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 144,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10144.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_144.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 145,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10145.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_145.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 146,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10146.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_146.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 147,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10147.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_147.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 148,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10148.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_148.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 149,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10149.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_149.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 150,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10150.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_150.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 151,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10151.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_151.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 152,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10152.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_152.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 153,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10153.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_153.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 154,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10154.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_154.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 155,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10155.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_155.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 156,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10156.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_156.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 157,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10157.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_157.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 158,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10158.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_158.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 159,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10159.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_159.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 160,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10160.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_160.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 161,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10161.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_161.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 162,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10162.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_162.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 163,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10163.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_163.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 164,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10164.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_164.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 165,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10165.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_165.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 166,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10166.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_166.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 167,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10167.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_167.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 168,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10168.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_168.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 169,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10169.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_169.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 170,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10170.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_170.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 171,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10171.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_171.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 172,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10172.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_172.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 173,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10173.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_173.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 174,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10174.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_174.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 175,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10175.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_175.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 176,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10176.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_176.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 177,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10177.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_177.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 178,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10178.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_178.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 179,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10179.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_179.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 180,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10180.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_180.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 181,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10181.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_181.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 182,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10182.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_182.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 183,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10183.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_183.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 184,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10184.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_184.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 185,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10185.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_185.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 186,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10186.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_186.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 187,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10187.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_187.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 188,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10188.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_188.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 189,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10189.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_189.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 190,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10190.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_190.html"
+  },
+  {
+    "mandala": 10,
+    "hymn": 191,
+    "url": "https://www.sacred-texts.com/hin/rigveda/rv10191.htm",
+    "path": "data/raw/griffith/mandala_10/hymn_191.html"
+  }
+]
