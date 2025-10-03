@@ -1,0 +1,48 @@
+{
+  "generated_at": "2025-10-03T11:12:15.603234",
+  "input_pattern": "rigveda_mandala_*.json",
+  "total_records": 15,
+  "by_mandala": {
+    "1": {
+      "verses": 559,
+      "deity_%": 100.0
+    },
+    "10": {
+      "verses": 511,
+      "deity_%": 100.0
+    },
+    "2": {
+      "verses": 418,
+      "deity_%": 100.0
+    },
+    "3": {
+      "verses": 453,
+      "deity_%": 100.0
+    },
+    "4": {
+      "verses": 503,
+      "deity_%": 100.0
+    },
+    "5": {
+      "verses": 397,
+      "deity_%": 100.0
+    },
+    "6": {
+      "verses": 515,
+      "deity_%": 90.67961165048544
+    },
+    "7": {
+      "verses": 424,
+      "deity_%": 98.34905660377359
+    },
+    "8": {
+      "verses": 1005,
+      "deity_%": 100.0
+    },
+    "9": {
+      "verses": 306,
+      "deity_%": 100.0
+    }
+  },
+  "duplicates": []
+}

@@ -1,0 +1,8 @@
+{
+  "total_rows": 5140,
+  "dropped_junk": 3096,
+  "kept": 1027,
+  "dedup_groups": 1027,
+  "ambiguous_groups": 0,
+  "total_input_rows": 5140
+}
