@@ -21,7 +21,7 @@ if str(PROJECT_ROOT) not in sys.path:
 
 # Now import utilities
 try:
-    from App._utils import load_dataset, normalize_df
+    from App.utils import load_dataset, normalize_df
 except Exception:
     # fallback if App package not available (best-effort)
     def load_dataset():
